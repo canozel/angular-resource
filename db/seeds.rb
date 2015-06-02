@@ -1,0 +1,8 @@
+Entry.create!(name: "Salih")
+Entry.create!(name: "Can")
+Entry.create!(name: "Levent")
+Entry.create!(name: "Serhat")
+Entry.create!(name: "Irfan")
+Entry.create!(name: "Murat")
+Entry.create!(name: "Ecmel")
+Entry.create!(name: "Emrah")
